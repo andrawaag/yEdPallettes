@@ -6,7 +6,7 @@ yEd comes with a number of built-in pallettes that contain symbols for various t
 
 The pallettes can be enriched with additional symbols and shapes as needed. I have created a number of pallettes by importing icons from Wikimedia Commons. 
 
-One interesting collection of icons found on Wikimedia Commons originate from the DataBase Center for Life Science (DBCLS) in Japan. DBCLS has been so nice to provide a collection of their icons to Wikimedia Commons, which opens them up to the world. 
+One interesting collection of icons found on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Life_science_icons_from_DBCLS) originate from the [DataBase Center for Life Science (DBCLS)](https://dbcls.rois.ac.jp/index-en.html) in Japan. DBCLS has been so nice to provide a collection of their icons to Wikimedia Commons, which opens them up to the world. 
 The nicely integrated in the yED pallettes, which allows them to be used in a variety of diagrams. 
 
 ## Installation
